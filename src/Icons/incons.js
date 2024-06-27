@@ -1,0 +1,1 @@
+export const trash = <i className="fa-solid fa-trash"></i>
